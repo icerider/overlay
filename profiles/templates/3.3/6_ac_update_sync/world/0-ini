@@ -1,4 +1,4 @@
-# Calculate path=/etc/calculate name=ini.env format=samba cl_update_world==rebuild||cl_update_world==merge||ini(overlay-lautre76.world)==
+# Calculate path=/etc/calculate name=ini.env format=samba cl_update_world==rebuild||cl_update_world==merge||ini(overlay-icerider.world)==
 
-[overlay-lautre76]
+[overlay-icerider]
 world = 5
