@@ -1,3 +1,3 @@
-media-gfx/gfxboot
-media-gfx/gfxboot-themes-calculate **
-sys-apps/calculate-utils-3.4.9999 **
+media-gfx/gfxboot amd64
+media-gfx/gfxboot-themes-calculate amd64
+~sys-apps/calculate-utils-3.4.9999 amd64
