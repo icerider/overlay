@@ -3,4 +3,5 @@
 #?in(os_linux_pkglist, Icerider-CLS)!=#
 media-gfx/gfxboot
 media-gfx/gfxboot-themes-calculate
+app-editors/vim
 #in#
