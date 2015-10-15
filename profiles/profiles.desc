@@ -9,6 +9,7 @@
 
 # AMD64 Profiles
 amd64		Desktop-X/amd64					stable
+x86		test					stable
 amd64		Icerider-CLS/amd64					stable
 amd64		Icerider-CLS-Source/amd64					stable
 
