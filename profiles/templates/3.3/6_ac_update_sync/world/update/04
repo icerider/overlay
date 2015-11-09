@@ -1,0 +1,7 @@
+# Calculate format=world name=world ini(overlay-icerider.world)<4
+
+#-ini(overlay-icerider.world,4)-#
+
+#?in(os_linux_pkglist, CLDK5)!=#
+media-gfx/nomacs
+#in#
