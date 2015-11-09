@@ -1,7 +1,0 @@
-# Calculate format=world name=world ini(overlay-icerider.world)<6
-
-#-ini(overlay-icerider.world,6)-#
-
-#?in(os_linux_pkglist, Icerider-CLS)!=#
-app-editors/vim
-#in#

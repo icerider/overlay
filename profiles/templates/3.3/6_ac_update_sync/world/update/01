@@ -1,8 +1,0 @@
-# Calculate format=world name=world ini(overlay-icerider.world)<1
-
-#-ini(overlay-icerider.world,1)-#
-
-#?os_linux_pkglist==Desktop-X#
-games-util/steam-launcher
-www-client/firefox-bin
-#os_linux_pkglist#
