@@ -1,7 +1,16 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, Icerider-CLS)!=#
-media-gfx/gfxboot
-media-gfx/gfxboot-themes-calculate
-app-editors/vim
+#?in(os_linux_pkglist, CLDK5)!=#
+app-office/libreoffice
+net-misc/rdesktop
+x11-themes/claws-mail-theme-calculate
+mail-client/claws-mail
+media-gfx/imagemagick
+media-gfx/inkscape
+dev-java/oracle-jdk-bin
+media-sound/clementine
+app-i18n/poedit
+app-emulation/virtualbox
+kde-frameworks/karchive
+kde-apps/krdc
 #in#
