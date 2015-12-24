@@ -15,4 +15,14 @@ kde-frameworks/karchive
 kde-apps/krdc
 media-gfx/nomacs
 www-client/qupzilla
+sys-process/at
+media-gfx/scrot
+app-text/qpdfview
+www-plugins/chrome-binary-plugins
+dev-python/guppy
+dev-python/ipython
+net-print/hplip
+www-client/chromium
+media-video/mpv
+net-print/foomatic-db
 #in#
