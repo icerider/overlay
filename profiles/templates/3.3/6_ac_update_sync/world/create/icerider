@@ -14,4 +14,5 @@ app-emulation/virtualbox
 kde-frameworks/karchive
 kde-apps/krdc
 media-gfx/nomacs
+www-client/qupzilla
 #in#
