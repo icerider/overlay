@@ -25,4 +25,8 @@ net-print/hplip
 www-client/chromium
 media-video/mpv
 net-print/foomatic-db
+net-im/pidgin
+media-video/smplayer
+kde-apps/kopete
+x11-plugins/pidgin-indicator
 #in#
